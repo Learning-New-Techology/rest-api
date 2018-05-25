@@ -1,16 +1,18 @@
 {
   "name": "node-rest-shop",
   "version": "1.0.0",
-  "description": "A node.js RESTful tutorial project. ",
+  "description": "Node js app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "Node",
-    "RESTful",
-    "API"
+    "js"
   ],
   "author": "Shiva Bhusal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
